@@ -1,7 +1,7 @@
 # <div align="center">Welcome to My Digital Universe</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Khaliduzzaman+Tanoy;Full+Stack+Developer;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Khaliduzzaman+Tanoy;Aspiring+Developer;Learning+and+Building" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,29 +16,28 @@
 const khaliduzzaman = {
     pronouns: "he" | "him",
     location: "Bangladesh",
-    role: "Full Stack Developer",
-    currentFocus: "Building scalable web applications",
+    role: "Aspiring Developer",
+    currentFocus: "Learning web development",
     technologies: {
-        backend: ["Python", "Flask", "Node.js"],
-        frontend: ["JavaScript", "HTML5", "CSS3", "React"],
-        database: ["MongoDB", "PostgreSQL", "SQLite"],
-        devOps: ["Docker", "AWS", "Heroku"],
-        tools: ["Git", "VS Code", "Postman"]
+        backend: ["Python", "Flask"],
+        frontend: ["JavaScript", "HTML5", "CSS3"],
+        database: ["MongoDB", "SQLite"],
+        tools: ["Git", "VS Code", "Docker"]
     },
-    currentlyLearning: ["Machine Learning", "Cloud Architecture"],
-    askMeAbout: ["Web Development", "Python", "API Design"],
-    funFact: "I debug with console.log() and I'm not ashamed!"
+    currentlyLearning: ["React", "Node.js", "Backend Development"],
+    askMeAbout: ["Web Development", "Python"],
+    funFact: "Still learning and loving every moment of it!"
 };
 ```
 
 ## <div align="center">Tech Arsenal</div>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,flask,docker,mongodb,postgresql,git,vscode,aws,heroku&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,mongodb,git,vscode,docker&perline=5" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=python%2Cpython%2C3776ab%3Bjavascript%2Cjavascript%2Cf7df1e%3Bhtml5%2Chtml5%2Ce34f26%3B&line2=flask%2Cflask%2C000000%3Breact%2Creact%2C61dafb%3Bmongodb%2Cmongodb%2C47a248%3B&line3=docker%2Cdocker%2C2496ed%3Baws%2Caws%2Cff9900%3Bgit%2Cgit%2Cf05032%3B" />
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=github_dark&line1=python%2Cpython%2C3776ab%3Bjavascript%2Cjavascript%2Cf7df1e%3Bhtml5%2Chtml5%2Ce34f26%3B&line2=flask%2Cflask%2C000000%3Bmongodb%2Cmongodb%2C47a248%3Bgit%2Cgit%2Cf05032%3B" />
 </div>
 
 ## <div align="center">Featured Projects</div>
@@ -53,7 +52,7 @@ const khaliduzzaman = {
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=bulkmail&theme=tokyonight&hide_border=true" alt="Bulk Email System" />
           </a>
           <p><strong>Python • Flask • Email Marketing</strong></p>
-          <p>Professional bulk email solution with advanced analytics and campaign management features.</p>
+          <p>A bulk email system built with Python for managing email campaigns.</p>
         </div>
       </td>
       <td width="50%">
@@ -75,7 +74,7 @@ const khaliduzzaman = {
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=doingflowcall&theme=tokyonight&hide_border=true" alt="Web Call Service" />
           </a>
           <p><strong>HTML • WebRTC • Communication</strong></p>
-          <p>Innovative web-based calling solution for browser-to-browser communication.</p>
+          <p>A web-based calling application for browser communication.</p>
         </div>
       </td>
       <td width="50%">
@@ -85,7 +84,7 @@ const khaliduzzaman = {
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=Pyredirect&theme=tokyonight&hide_border=true" alt="PyRedirect" />
           </a>
           <p><strong>Flask • Docker • URL Management</strong></p>
-          <p>Lightweight Flask application for efficient URL redirection with Docker support.</p>
+          <p>A Flask application for URL redirection with Docker support.</p>
         </div>
       </td>
     </tr>
@@ -116,7 +115,7 @@ const khaliduzzaman = {
 ## <div align="center">Current Focus</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+Cloud+Architecture;Learning+Machine+Learning;Contributing+to+Open+Source;Creating+Developer+Tools" alt="Current Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Learning+Web+Development;Exploring+New+Technologies;Building+Small+Projects;Improving+Coding+Skills" alt="Current Focus" />
 </div>
 
 ## <div align="center">Let's Connect</div>
