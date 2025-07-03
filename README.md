@@ -56,9 +56,6 @@
   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=algolia&line1=python%2Cpython%2C3776ab%3Bjavascript%2Cjavascript%2Cf7df1e%3Bhtml5%2Chtml5%2Ce34f26%3B&line2=flask%2Cflask%2C000000%3Bmongodb%2Cmongodb%2C47a248%3Bgit%2Cgit%2Cf05032%3B" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2" />
-</div>
 
 ## <div align="center">Featured Projects</div>
 
