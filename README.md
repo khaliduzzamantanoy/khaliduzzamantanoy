@@ -38,8 +38,7 @@
             <li>Tools: Git, VS Code, Docker</li>
           </ul>
           <p><strong>Currently Learning:</strong> React, Node.js, Backend Development</p>
-          <p><strong>Ask me about:</strong> Web Development, Python</p>
-          <p><strong>Fun Fact:</strong> Still learning and loving every moment of it!</p>
+        
         </div>
       </td>
     </tr>
