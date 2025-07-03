@@ -160,7 +160,7 @@
         </a>
       </td>
       <td align="center">
-        <a href="mailto:khaliduzzamantanoy@gmail.com" target="_blank">
+        <a href="mailto:tanoymd586@gmail.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Email" />
         </a>
       </td>
