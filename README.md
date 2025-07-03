@@ -8,18 +8,7 @@
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-## <div align="center">About Me</div>
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-**Developer Profile**
-
-- **Location:** Bangladesh
-- **Role:** Aspiring Developer
-- **Current Focus:** Learning web development
-
-- **Currently Learning:** React, Node.js, Backend Development
-- **Fun Fact:** Still learning and loving every moment of it!
 
 ## <div align="center">Tech Arsenal</div>
 
