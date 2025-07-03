@@ -1,7 +1,7 @@
 # <div align="center">Welcome to My Digital Universe</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Khaliduzzaman+Tanoy;Aspiring+Developer;Learning+and+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+MD+Khaliduzzaman+Tanoy;Aspiring+Developer;Learning+and+Building" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,6 +23,7 @@
   - Database: MongoDB, SQLite
   - Tools: Git, VS Code, Docker
 - **Currently Learning:** React, Node.js, Backend Development
+- **Ask me about:** Web Development, Python
 - **Fun Fact:** Still learning and loving every moment of it!
 
 ## <div align="center">Tech Arsenal</div>
@@ -38,52 +39,30 @@
 ## <div align="center">Featured Projects</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Bulk Email Campaign System</h3>
-        <div align="center">
-          <a href="https://github.com/khaliduzzamantanoy/bulkmail" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=bulkmail&theme=tokyonight&hide_border=true" alt="Bulk Email System" />
-          </a>
-          <p><strong>Python • Flask • Email Marketing</strong></p>
-          <p>A bulk email system built with Python for managing email campaigns.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">Wellness Tracker</h3>
-        <div align="center">
-          <a href="https://github.com/khaliduzzamantanoy/wellness-tracker" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=wellness-tracker&theme=tokyonight&hide_border=true" alt="Wellness Tracker" />
-          </a>
-          <p><strong>JavaScript • Health • Productivity</strong></p>
-          <p>Daily routine management app for maintaining healthy study and exercise schedules.</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Web Call Service</h3>
-        <div align="center">
-          <a href="https://github.com/khaliduzzamantanoy/doingflowcall" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=doingflowcall&theme=tokyonight&hide_border=true" alt="Web Call Service" />
-          </a>
-          <p><strong>HTML • WebRTC • Communication</strong></p>
-          <p>A web-based calling application for browser communication.</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">PyRedirect</h3>
-        <div align="center">
-          <a href="https://github.com/khaliduzzamantanoy/Pyredirect" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=Pyredirect&theme=tokyonight&hide_border=true" alt="PyRedirect" />
-          </a>
-          <p><strong>Flask • Docker • URL Management</strong></p>
-          <p>A Flask application for URL redirection with Docker support.</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <a href="https://github.com/khaliduzzamantanoy/bulkmail">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=bulkmail&theme=tokyonight&hide_border=true" alt="Bulk Email System" />
+  </a>
+  <a href="https://github.com/khaliduzzamantanoy/wellness-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=wellness-tracker&theme=tokyonight&hide_border=true" alt="Wellness Tracker" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/khaliduzzamantanoy/doingflowcall">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=doingflowcall&theme=tokyonight&hide_border=true" alt="Web Call Service" />
+  </a>
+  <a href="https://github.com/khaliduzzamantanoy/Pyredirect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=Pyredirect&theme=tokyonight&hide_border=true" alt="PyRedirect" />
+  </a>
+</div>
+
+## <div align="center">All Repositories</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=bulkmail&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=wellness-tracker&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=doingflowcall&theme=tokyonight&hide_border=true&show_owner=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=Pyredirect&theme=tokyonight&hide_border=true&show_owner=true" />
 </div>
 
 ## <div align="center">GitHub Analytics</div>
