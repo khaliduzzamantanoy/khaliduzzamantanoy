@@ -39,9 +39,6 @@
           </ul>
           <p><strong>Currently Learning:</strong> React, Node.js, Backend Development</p>
         
-        </div>
-      </td>
-    </tr>
   </table>
 </div>
 
