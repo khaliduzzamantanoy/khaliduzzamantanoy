@@ -12,23 +12,19 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-```javascript
-const khaliduzzaman = {
-    pronouns: "he" | "him",
-    location: "Bangladesh",
-    role: "Aspiring Developer",
-    currentFocus: "Learning web development",
-    technologies: {
-        backend: ["Python", "Flask"],
-        frontend: ["JavaScript", "HTML5", "CSS3"],
-        database: ["MongoDB", "SQLite"],
-        tools: ["Git", "VS Code", "Docker"]
-    },
-    currentlyLearning: ["React", "Node.js", "Backend Development"],
-    askMeAbout: ["Web Development", "Python"],
-    funFact: "Still learning and loving every moment of it!"
-};
-```
+**Developer Profile**
+
+- **Location:** Bangladesh
+- **Role:** Aspiring Developer
+- **Current Focus:** Learning web development
+- **Technologies I work with:**
+  - Backend: Python, Flask
+  - Frontend: JavaScript, HTML5, CSS3
+  - Database: MongoDB, SQLite
+  - Tools: Git, VS Code, Docker
+- **Currently Learning:** React, Node.js, Backend Development
+- **Ask me about:** Web Development, Python
+- **Fun Fact:** Still learning and loving every moment of it!
 
 ## <div align="center">Tech Arsenal</div>
 
