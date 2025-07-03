@@ -23,7 +23,6 @@
   - Database: MongoDB, SQLite
   - Tools: Git, VS Code, Docker
 - **Currently Learning:** React, Node.js, Backend Development
-- **Ask me about:** Web Development, Python
 - **Fun Fact:** Still learning and loving every moment of it!
 
 ## <div align="center">Tech Arsenal</div>
