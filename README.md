@@ -17,13 +17,8 @@
 - **Location:** Bangladesh
 - **Role:** Aspiring Developer
 - **Current Focus:** Learning web development
-- **Technologies I work with:**
-  - Backend: Python, Flask
-  - Frontend: JavaScript, HTML5, CSS3
-  - Database: MongoDB, SQLite
-  - Tools: Git, VS Code, Docker
+
 - **Currently Learning:** React, Node.js, Backend Development
-- **Ask me about:** Web Development, Python
 - **Fun Fact:** Still learning and loving every moment of it!
 
 ## <div align="center">Tech Arsenal</div>
