@@ -104,12 +104,11 @@ const developer = {
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=khaliduzzamantanoy&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" />
+ 
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khaliduzzamantanoy&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaliduzzamantanoy&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF&langs_count=8" />
   <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khaliduzzamantanoy&theme=radical&utcOffset=6" />
 </p>
 
@@ -122,8 +121,7 @@ const developer = {
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khaliduzzamantanoy&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
+ </p>
 
 </details>
 
