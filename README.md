@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=MD.%20Khaliduzzaman%20Tanoy&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Building%20Web%20Solutions&descSize=20&descAlignY=60" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=MD.%20Khaliduzzaman%20Tanoy&fontColor=#D8F999&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Building%20Web%20Solutions&descSize=20&descAlignY=60" />
 
 </div>
 
