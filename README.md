@@ -139,8 +139,7 @@ const developer = {
 
 ### BulkMail System
 <a href="https://github.com/khaliduzzamantanoy/bulkmail">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=bulkmail&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" />
-</a>
+  </a>
 
 **Tech Stack:** Python, Flask, SMTP, MongoDB
 
@@ -153,7 +152,6 @@ Email automation system with template management and scheduling capabilities for
 
 ### Wellness Tracker
 <a href="https://github.com/khaliduzzamantanoy/wellness-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=wellness-tracker&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" />
 </a>
 
 **Tech Stack:** JavaScript, Node.js, MongoDB, REST API
@@ -169,7 +167,7 @@ Health monitoring platform for tracking fitness activities, nutrition, and welln
 
 ### DoingFlowCall
 <a href="https://github.com/khaliduzzamantanoy/doingflowcall">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=doingflowcall&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" />
+
 </a>
 
 **Tech Stack:** Python, Flask, WebRTC
@@ -183,7 +181,7 @@ Automated calling system with workflow management and real-time communication fe
 
 ### PyRedirect
 <a href="https://github.com/khaliduzzamantanoy/Pyredirect">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=Pyredirect&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFF" />
+ 
 </a>
 
 **Tech Stack:** Python, Flask, SQLite
@@ -197,7 +195,7 @@ URL shortening service with analytics tracking, custom domains, and detailed cli
 </table>
 
 <a href="https://github.com/khaliduzzamantanoy?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
+ 
 </a>
 
 </div>
