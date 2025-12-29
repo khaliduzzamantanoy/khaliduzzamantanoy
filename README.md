@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=MD.%20Khaliduzzaman%20Tanoy&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Building%20Web%20Solutions&descSize=20&descAlignY=60&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&text=MD.%20Khaliduzzaman%20Tanoy&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20Building%20Web%20Solutions&descSize=20&descAlignY=60" />
 
 </div>
 
@@ -250,4 +250,3 @@ URL shortening service with analytics tracking, custom domains, and detailed cli
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
