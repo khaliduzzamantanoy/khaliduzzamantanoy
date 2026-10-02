@@ -20,7 +20,7 @@
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 👨‍💻 About Me
+##  About Me
 
 <img align="right" width="380" alt="Coding" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
@@ -47,7 +47,7 @@ const tanoy = {
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -75,7 +75,7 @@ const tanoy = {
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## ⚙️ How I Build
+##  How I Build
 
 <div align="center">
 <img src="assets/pipeline.svg" width="100%" alt="IoT to dashboard pipeline" />
@@ -83,7 +83,7 @@ const tanoy = {
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
@@ -118,7 +118,7 @@ const tanoy = {
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -140,13 +140,13 @@ const tanoy = {
 
 </div>
 
-### 🏆 Trophies
+###  Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=khaliduzzamantanoy&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies" />
 </div>
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <div align="center">
 <picture>
@@ -158,7 +158,7 @@ const tanoy = {
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
-## 📡 Latest Activity
+##  Latest Activity
 
 <!-- RECENT-ACTIVITY:START -->
 <!-- RECENT-ACTIVITY:END -->
