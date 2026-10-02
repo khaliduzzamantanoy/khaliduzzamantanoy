@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/hero-game.svg" alt="Header" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=800&color=38BDF8&center=true&vCenter=true&width=760&height=45&lines=Building+modern+web+applications;Orchestrating+containers+with+Kubernetes;Automating+delivery+with+CI%2FCD;Connecting+devices+with+IoT;Laravel+%7C+React+%7C+Node.js+%7C+Python" alt="Typing SVG" />
 
