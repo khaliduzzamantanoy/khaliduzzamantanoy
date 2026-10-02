@@ -1,248 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&text=MD.%20Khaliduzzaman%20Tanoy&fontColor=E2E8F0&fontSize=50&fontAlignY=40&descAlignY=60" />
+# MD. Khaliduzzaman Tanoy
+
+**Full Stack Developer · Cloud & DevOps · IoT · Dhaka, Bangladesh**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=640&height=40&lines=Full+Stack+Developer;Cloud+%26+DevOps+Engineer;Kubernetes+%7C+Docker+%7C+CI%2FCD;IoT+%7C+Connected+Devices;Laravel+%7C+React+%7C+Node.js+%7C+Python" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://bd.linkedin.com/in/iamtanoy)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanoymd586@gmail.com)
+[![Repositories](https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/khaliduzzamantanoy?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=khaliduzzamantanoy&style=flat-square&color=38BDF8&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/khaliduzzamantanoy?style=flat-square&color=38BDF8&label=Followers)
 
 </div>
 
-<div align="center">
+---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F7F7&center=true&vCenter=true&repeat=true&random=false&width=800&lines=Full+Stack+Web+Developer;Laravel+%7C+React+%7C+Node.js;Python+%7C+Flask+%7C+MongoDB;Building+Modern+Web+Applications)](https://git.io/typing-svg)
+## About
 
-</div>
+I'm a full stack developer who also works in cloud, DevOps, and IoT. I build backend APIs and frontend interfaces, containerize and deploy them on Kubernetes, and connect them to real-world devices. I like systems that are simple to reason about, automated end to end, and reliable in production.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+| | |
+|---|---|
+| 🔭 **Currently working on** | Web applications, Kubernetes deployments, CI/CD pipelines, and IoT systems |
+| 🌱 **Currently learning** | Advanced Kubernetes (scaling, load balancing, ingress), infrastructure as code, advanced React patterns |
+| 🤝 **Open to** | Freelance projects and collaborations |
+| 📫 **Reach me** | [tanoymd586@gmail.com](mailto:tanoymd586@gmail.com) |
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-```typescript
-const developer = {
-    name: "MD. Khaliduzzaman Tanoy",
-    location: "Dhaka, Bangladesh",
-    role: "Full Stack Developer",
-    
-    currentFocus: [
-        "Web Development",
-        "Backend APIs",
-        "Database Design",
-        "Frontend Interfaces"
-    ],
-    
-    workingWith: {
-        backend: ["Laravel", "Flask", "Node.js", "Express"],
-        frontend: ["React", "JavaScript", "HTML5", "CSS3", "Tailwind"],
-        database: ["MongoDB", "MySQL", "SQLite", "Redis"],
-        tools: ["Git", "Docker", "VS Code", "Postman"]
-    },
-    
-    learning: ["React Advanced Patterns", "REST APIs", "Database Optimization"],
-    
-    availableFor: "Web Development Projects and Collaborations"
-};
-```
-
-<br clear="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## Tech Stack
 
-<details open>
-<summary><b>Click to expand/collapse</b></summary>
-<br>
-
 <div align="center">
 
-**Programming Languages**
+**Backend**<br>
+<img src="https://skillicons.dev/icons?i=php,laravel,py,flask,nodejs,express" alt="Backend" />
 
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Frontend**<br>
+<img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,bootstrap" alt="Frontend" />
 
-**Frameworks & Libraries**
+**Databases**<br>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis" alt="Databases" />
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Cloud & DevOps**<br>
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,aws,gcp,azure,terraform,ansible,githubactions,jenkins,prometheus,grafana,nginx,linux,bash" alt="Cloud and DevOps" />
 
-**Databases**
+**IoT & Embedded**<br>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,py,c" alt="IoT" /><br>
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+**Tools**<br>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" alt="Tools" />
 
 </div>
-</details>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## GitHub Statistics
-
-<p align="center">
- 
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=khaliduzzamantanoy&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khaliduzzamantanoy&theme=radical&utcOffset=6" />
-</p>
-
-<details>
-<summary><b>More Statistics</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaliduzzamantanoy&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F8D866&point=FFFFFF&area_color=F85D7F&area=true&hide_border=true" width="98%" />
-</p>
-
-<p align="center">
- </p>
-
-</details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
 
 ## Featured Projects
 
-<div align="center">
-
 <table>
 <tr>
-<td width="50%">
-
-### BulkMail System
+<td width="50%" align="center">
 <a href="https://github.com/khaliduzzamantanoy/bulkmail">
-  </a>
-
-**Tech Stack:** Python, Flask, SMTP, MongoDB
-
-Email automation system with template management and scheduling capabilities for bulk email campaigns.
-
-[![View Repository](https://img.shields.io/badge/View-Repository-F85D7F?style=for-the-badge&logo=github)](https://github.com/khaliduzzamantanoy/bulkmail)
-
-</td>
-<td width="50%">
-
-### Wellness Tracker
-<a href="https://github.com/khaliduzzamantanoy/wellness-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=bulkmail&theme=transparent&hide_border=true" alt="BulkMail" />
 </a>
-
-**Tech Stack:** JavaScript, Node.js, MongoDB, REST API
-
-Health monitoring platform for tracking fitness activities, nutrition, and wellness goals with data visualization.
-
-[![View Repository](https://img.shields.io/badge/View-Repository-F85D7F?style=for-the-badge&logo=github)](https://github.com/khaliduzzamantanoy/wellness-tracker)
-
+<br><sub><b>Python · Flask · SMTP · MongoDB</b><br>Email automation with template management and scheduling.</sub>
+</td>
+<td width="50%" align="center">
+<a href="https://github.com/khaliduzzamantanoy/wellness-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=wellness-tracker&theme=transparent&hide_border=true" alt="Wellness Tracker" />
+</a>
+<br><sub><b>JavaScript · Node.js · MongoDB · REST API</b><br>Fitness, nutrition, and wellness tracking with data visualization.</sub>
 </td>
 </tr>
 <tr>
-<td width="50%">
-
-### DoingFlowCall
+<td width="50%" align="center">
 <a href="https://github.com/khaliduzzamantanoy/doingflowcall">
-
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=doingflowcall&theme=transparent&hide_border=true" alt="DoingFlowCall" />
 </a>
-
-**Tech Stack:** Python, Flask, WebRTC
-
-Automated calling system with workflow management and real-time communication features.
-
-[![View Repository](https://img.shields.io/badge/View-Repository-F85D7F?style=for-the-badge&logo=github)](https://github.com/khaliduzzamantanoy/doingflowcall)
-
+<br><sub><b>Python · Flask · WebRTC</b><br>Automated calling with workflow management and real-time communication.</sub>
 </td>
-<td width="50%">
-
-### PyRedirect
+<td width="50%" align="center">
 <a href="https://github.com/khaliduzzamantanoy/Pyredirect">
- 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=khaliduzzamantanoy&repo=Pyredirect&theme=transparent&hide_border=true" alt="PyRedirect" />
 </a>
-
-**Tech Stack:** Python, Flask, SQLite
-
-URL shortening service with analytics tracking, custom domains, and detailed click statistics.
-
-[![View Repository](https://img.shields.io/badge/View-Repository-F85D7F?style=for-the-badge&logo=github)](https://github.com/khaliduzzamantanoy/Pyredirect)
-
+<br><sub><b>Python · Flask · SQLite</b><br>URL shortener with click analytics and custom domains.</sub>
 </td>
 </tr>
 </table>
 
-<a href="https://github.com/khaliduzzamantanoy?tab=repositories">
- 
-</a>
+---
 
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## Connect With Me
-
-<p align="center">
-  <a href="https://bd.linkedin.com/in/iamtanoy">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/khaliduzzamantanoy">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:tanoymd586@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/crackerboy.812921">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/crackerboy.812921/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+## GitHub Activity
 
 <div align="center">
 
-### Open for collaborations and freelance opportunities
+<img src="https://streak-stats.demolab.com/?user=khaliduzzamantanoy&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border_radius=10" />
+<br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khaliduzzamantanoy&show_icons=true&theme=transparent&hide_border=true&icon_color=38BDF8&title_color=38BDF8&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaliduzzamantanoy&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&langs_count=6" alt="Top languages" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khaliduzzamantanoy&theme=react-dark&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=FFFFFF" alt="Contribution graph" width="95%" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khaliduzzamantanoy/khaliduzzamantanoy/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khaliduzzamantanoy/khaliduzzamantanoy/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/khaliduzzamantanoy/khaliduzzamantanoy/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+---
+
+## Latest Updates
+
+<!-- RECENT-ACTIVITY:START -->
+<!-- RECENT-ACTIVITY:END -->
+
+---
 
 <div align="center">
 
-## Profile Metrics
+### Let's build something together
 
-![Profile Views](https://komarev.com/ghpvc/?username=khaliduzzamantanoy&color=F85D7F&style=for-the-badge&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/khaliduzzamantanoy?style=for-the-badge&color=F85D7F&labelColor=0D1117)
-![Stars](https://img.shields.io/github/stars/khaliduzzamantanoy?style=for-the-badge&color=F8D866&labelColor=0D1117)
+[![Get in touch](https://img.shields.io/badge/Get_in_touch-38BDF8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanoymd586@gmail.com)
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=F85D7F&center=true&vCenter=true&repeat=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+build+something+together!;Always+learning+and+growing!" />
+<sub>Open to freelance work and collaborations.</sub>
 
 </div>
-
